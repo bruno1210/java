@@ -25,7 +25,7 @@ public class ex5 {
             desempregado = s.nextInt();
         System.out.println("Você é mãe solteira ?");
             mae = s.nextInt (); 
-      
+      {
         if (idade == 1 && formal == 1 && beneficio == 1 && renda == 1 && desempregado == 1 && mae == 1)
             System.out.println("Parabéns! Você foi contemplado e receberá 1200.00 reais.");   
         
@@ -33,6 +33,6 @@ public class ex5 {
             System.out.println("Parabéns! Você foi contemplado e receberá 600.00 reais."); 
         
         else System.out.println("Você não cumpriu os requisitos para ganhar o auxilio.");
-        
+       }
     }
 }
