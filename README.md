@@ -1,2 +1,2 @@
 # java
-Atividades do curso
+## Códigos desenvolvidos para resolução de atividades relacionada ao curso de Desenvolvimento de Sistemas.
