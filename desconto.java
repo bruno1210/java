@@ -27,3 +27,11 @@ public class desconto {
         }
 }
 }
+
+
+/* exercício: Crie um programa que calcule o valor de um produto com desconto. Nesse programa o usuário deverá
+informar o nome e preço do produto.
+Os descontos aplicados ao produto são:
+ 10%: Produtos que possuam um valor maior que 100,00 reais e um valor menor ou igual a 200,00 reais;
+ 20%: Produtos que possuam um valor maior que 200,00 reais e um valor menor ou igual a 300,00 reais;
+ 30%: Produtos que possuam um valor maior que 300,00 reais; */
